@@ -1,14 +1,14 @@
 # Allgemein (Fachrichtung/Prüfungs Unabhändig)
-- [[UML-Diagramme - Aktivitätsdia., Zustandsdia., Klassendia., PAP, Struktogramm, Use-Case Dia. 1]]
+- [[UML-Diagramme - Aktivitätsdia., Zustandsdia., Klassendia., PAP, Struktogramm, Use-Case Dia. 1.pdf]]
 - [[VM vs. VDI]]
 - [[Cloud]]
 - [[Projektmanagement]]
 - [[Datenschutz - DSGVO]]
 # Prüfung 1: Planen eines Softwareproduktes
 - [[Anforderungsanalyse]]
-- [[Softwarearchitektur TODO]]
+- [[Softwarearchitektur]]
 - [[IT-Sicherheit]]
-- [[UI - UX TODO]]
+- [[UI - UX]]
 - [[Testing, Betrieb & Open Source]]
 - [[Wichtige Standards]]
 
@@ -16,8 +16,8 @@
 // TODO
 - [[Relationale Datenbank]]
 - [[Beziehungstypen - Assoziation und Abhängigkeit]]
-- [[Such-Algorithmen]]
-- [[Sortier-Algorithmen]]
+- [[Such-Algorithmen.pdf]]
+- [[Sortier-Algorithmen.pdf]]
 - [[XML]]
 
 

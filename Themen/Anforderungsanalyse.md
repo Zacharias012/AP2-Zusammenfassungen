@@ -1,3 +1,19 @@
+# Vorgehen
+**Schritt 1: Rollen Zuweisen**
+Rollen im Projekt werden zugewiesen, dazu ist auch eine [[Projektmanagement#Stakeholder-Analyse|Stakeholder-Analyse]] hilfreich.
+
+**Schritt 2: Mit Stakeholder reden**
+Was sind Ziele und Erfolgsbedingungen für das Projekt? Was macht ihnen Sorgen?
+
+**Schritt 3: Annahmen und Anforderungen Auflisten**
+Zeitplan aufstellen, Projektmitglieder festlegen, Risiken auflisten.
+SMART Überprüfen
+
+**Schritt 4: Zustimmung Einholen**
+Scope Creep verhindern - Grenzen klar benennen
+Von allen wichtigen Beteiligten Zustimmung einholen
+
+---
 # Funktionale vs nicht-Funktionale
 **Funktionale Anforderungen:** *Was* muss die Software können?
 z.B. Die Software muss den Body-Mass-Index basierend auf einer gegebenen Formel auf eine Nachkommastelle genau berechnen.
@@ -35,3 +51,32 @@ Das Akronym bezieht sich auf eine User Story (U.S.) und steht für:
 **E**stimatable - Der Aufwand kann vom Team eingeschätzt werden.
 **S**mall - Sie sollte in einem Sprint umsetzbar sein
 **T**estable - Es lassen sich klare Akzeptanzkriterien definieren.
+
+---
+# Make-or-Buy-Entscheidungen
+Um zu entscheiden, ob eine Software in-house entwickelt oder gekauft werden soll, kann wie folgt vorgegangen werden:
+
+**Operative vs Strategische Entscheidungen**
+*Operativ:* vor allem kurzfristige Ziele, z.B. Kosten oder Fristeneinhaltung
+*Strategisch:* langfristige Ziele. Was soll das Unternehmen selbst machen? Wie soll es aufgestellt sein?
+
+**Faktoren Betrachten**
+- **Zielsetzung**
+	- Beeinflusst die Entscheidungsfaktoren
+	- z.B. Wirtschaftlich? Kosten wichtiger
+- **Kosten**
+    - *Make:* Material, Personal, Räumlichkeiten etc.
+    - *operativ:* kurzfristige Kostenersparnis durch Kauf
+    - *Buy:* Beschaffungskosten
+    - *strategisch:* langfristige Kostenersparnis bei Selbstentwicklung
+- **Know-How**
+    - *operativ:* ist das notwendige Know-How schon vorhanden?
+    - *strategisch:* möchte das Unternehmen das Know-How aufbauen?
+- **Qualität**
+    - *+ Make:* Interne Qualitätssicherung und Überwachung
+    - *- Make:* Interner Qualitätsverlust (z.B. durch Abgang Erfahrener Mitarbeiter) könnte Projekt bremsen
+- **Ressourcen**
+    - Haben wir genug Ressourcen um das Projekt selbst umzusetzen?
+- **Risiken**
+	- *Make:* Ausfallzeiten, Personal etc.
+	- *Buy:* Dienstleisterausfall, Abhängigkeit
